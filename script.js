@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 const startBtn=document.querySelector('.start-btn');
 const popupInfo=document.querySelector('.popup-info');
@@ -16,3 +17,6 @@ exitBtn.onclick = () =>
 
     }
 
+=======
+
+>>>>>>> c11a73643e4fc4ae42aee895180177244a0e898e
